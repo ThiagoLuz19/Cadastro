@@ -1,4 +1,4 @@
-Este repositório contém o código-fonte de um formulário de cadastro simples e intuitivo, desenvolvido para oferecer uma interface amigável para o registro de usuários.
+Este repositório contém o front end de um formulário de cadastro simples e intuitivo, desenvolvido para oferecer uma interface amigável para o registro de usuários.
 
 # Funcionalidades
 Interface Minimalista e Responsiva: Design moderno que se adapta a diferentes dispositivos.
